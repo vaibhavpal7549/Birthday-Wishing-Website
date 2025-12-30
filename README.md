@@ -55,7 +55,7 @@ Birthday-Wishing-Website/
 
 *(Add screenshots of your website here for better presentation. Example:)*
 
-![Birthday Website Screenshot](./assets/screenshot.png)
+![Birthday Website Screenshot](./assets/birthday_wishing.png)
 
 ---
 
