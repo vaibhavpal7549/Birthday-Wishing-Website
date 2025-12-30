@@ -65,6 +65,11 @@ This is a personal project, but feel free to suggest improvements or new feature
 
 ---
 
+## License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 🌟 Connect With Me
 
 * Portfolio: [vaibhavpal.vercel.app](https://vaibhavpal.vercel.app/)
